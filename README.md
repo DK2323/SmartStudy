@@ -1,0 +1,2 @@
+# SmartStudy
+Education Platform UI.
